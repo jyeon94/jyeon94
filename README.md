@@ -7,16 +7,16 @@
 
 Here are some ideas to get you started:
 
-#### 🔭 Tools
+### 🔭 Tools
 - GitHub
 - Oracle SQL
 - Slack
 
-#### Languages
+### Languages
 - Python (intermediate)
 - R (intermediate)
 
-#### 📫 How to reach me
+### 📫 How to reach me
 - linkedin: https://www.linkedin.com/in/je-ho-yeon-72770b132/
 - Email: jyeon9465@gmail.com
 
