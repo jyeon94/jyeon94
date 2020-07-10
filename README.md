@@ -2,17 +2,13 @@
 
 👋 Hello! Welcome to my GitHub. I am currently studying to be a data analyst. My main areas of interest are data visualization and Machine Learning.
 
-<!--
-**jyeon94/jyeon94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### 🔭 Tools
 - GitHub
 - Oracle SQL
 - Slack
 
-### Languages
+### 👯 Languages
 - Python (intermediate)
 - R (intermediate)
 
