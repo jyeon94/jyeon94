@@ -7,6 +7,7 @@
 - GitHub
 - Oracle SQL
 - Slack
+- Tableau for visualization
 
 ### 👯 Languages
 - Python (intermediate)
